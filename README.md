@@ -1,1 +1,1 @@
-A simple Tic-Tax-toe game created by Michael Valdes using a C# Window Form.
+A simple Tic-Tac-toe game created by Michael Valdes using a C# Window Form.
